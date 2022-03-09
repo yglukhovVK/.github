@@ -21,9 +21,11 @@ Closes # <!-- Issue # here -->
 
 ## :microscope: Tests
 <!-- Answer the following 2 questions:
-How were these changes tested? (Local testing)
-How will these changes be verified once they're deployed? (Quality Control)
+1. How were these changes tested? (Local testing)
+2. How will these changes be verified once they're deployed? (Quality Control)
 -->
+1.
+2.
 
 ## ✅ Checks
 <!-- Make sure your pr passes the CI checks and do check the following fields as needed - -->
