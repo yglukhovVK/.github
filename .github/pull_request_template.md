@@ -9,7 +9,7 @@ You can open multiple prs instead of opening a huge one.
 <!-- If this PR closes a github issue, please mention the issue number below.
 If not, please link the respective JIRA/Trello ticket associated.
 -->
-Closes # <!-- Issue # here -->
+Closes #<!-- Issue # here -->
 
 ## 📑 Description
 <!-- Add a thorough description of the PR -->
@@ -21,12 +21,14 @@ Closes # <!-- Issue # here -->
 
 ## :microscope: Tests
 <!-- Answer the following 2 questions:
-How were these changes tested? (Local testing)
-How will these changes be verified once they're deployed? (Quality Control)
+1. How were these changes tested? (Local testing)
+2. How will these changes be verified once they're deployed? (Quality Control)
 -->
+1.
+2.
 
 ## ✅ Checks
-<!-- Make sure your pr passes the CI checks and do check the following fields as needed - -->
+<!-- Sanity checks on the easily-forgotten things (more will be added, TBD) -->
 - [ ] My code requires changes to the documentation
 - [ ] I have updated the documentation as required
 
