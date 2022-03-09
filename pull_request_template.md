@@ -28,7 +28,7 @@ Closes # <!-- Issue # here -->
 2.
 
 ## ✅ Checks
-<!-- Make sure your pr passes the CI checks and do check the following fields as needed - -->
+<!-- Sanity checks on the easily-forgotten things (more will be added, TBD) -->
 - [ ] My code requires changes to the documentation
 - [ ] I have updated the documentation as required
 
