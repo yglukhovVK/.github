@@ -1,1 +1,4 @@
-# .github
+# Description
+`.github` _directories_ within individual repositories are used to house things like templates, READMEs, Codes of Conduct, etc that are specific to the individual repository.
+Similarly, a `.github` _repository_ is a special repository designed to mimic the behavior of its sister directories, but at an organizational level. Meaning, if something like a Pull Request template is not defined in the individual repository's `.github` directory,
+Pull Requests, when opened, will default to using the PR template defined in the organization-level `.github` repository. Defaults from this `.github` repository can be overriden by explicitly configuring the equivalent directory in any given code repository.
