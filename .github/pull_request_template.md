@@ -9,7 +9,7 @@ You can open multiple prs instead of opening a huge one.
 <!-- If this PR closes a github issue, please mention the issue number below.
 If not, please link the respective JIRA/Trello ticket associated.
 -->
-Closes # <!-- Issue # here -->
+Closes #<!-- Issue # here -->
 
 ## 📑 Description
 <!-- Add a thorough description of the PR -->
@@ -31,8 +31,6 @@ Closes # <!-- Issue # here -->
 <!-- Sanity checks on the easily-forgotten things (more will be added, TBD) -->
 - [ ] My code requires changes to the documentation
 - [ ] I have updated the documentation as required
-
-testestest
 
 ## ℹ Additional Information
 <!-- Any additional information like screenshots (if applicable, like UI changes), breaking changes, dependencies added, comparisons between new and old behavior, etc. -->
