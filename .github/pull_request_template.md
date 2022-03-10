@@ -27,10 +27,5 @@ Closes #<!-- Issue # here -->
 1.
 2.
 
-## ✅ Checks
-<!-- Sanity checks on the easily-forgotten things (more will be added, TBD) -->
-- [ ] My code requires changes to the documentation
-- [ ] I have updated the documentation as required
-
 ## ℹ Additional Information
 <!-- Any additional information like screenshots (if applicable, like UI changes), breaking changes, dependencies added, comparisons between new and old behavior, etc. -->
