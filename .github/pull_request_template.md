@@ -20,17 +20,11 @@ Closes #<!-- Issue # here -->
 -->
 
 ## :microscope: Tests
-<!-- Answer the following 2 questions:
-1. How were these changes tested? (Local testing)
-2. How will these changes be verified once they're deployed? (Quality Control)
--->
+<!-- Answer the following 2 questions: -->
+### How were these changes tested? (Local testing)
 1.
+### How will these changes be verified once they're deployed? (Quality Control)
 2.
-
-## ✅ Checks
-<!-- Sanity checks on the easily-forgotten things (more will be added, TBD) -->
-- [ ] My code requires changes to the documentation
-- [ ] I have updated the documentation as required
 
 ## ℹ Additional Information
 <!-- Any additional information like screenshots (if applicable, like UI changes), breaking changes, dependencies added, comparisons between new and old behavior, etc. -->
