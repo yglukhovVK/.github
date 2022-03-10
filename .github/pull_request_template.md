@@ -20,11 +20,10 @@ Closes #<!-- Issue # here -->
 -->
 
 ## :microscope: Tests
-<!-- Answer the following 2 questions:
-1. How were these changes tested? (Local testing)
-2. How will these changes be verified once they're deployed? (Quality Control)
--->
+<!-- Answer the following 2 questions: -->
+### How were these changes tested? (Local testing)
 1.
+### How will these changes be verified once they're deployed? (Quality Control)
 2.
 
 ## ℹ Additional Information
