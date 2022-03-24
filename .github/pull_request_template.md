@@ -12,7 +12,6 @@ If not, please link the respective JIRA/Trello ticket associated.
 Closes #<!-- Issue # here -->
 
 ## 📑 Description
-- [] Achilles/Selenium used?
 <!-- Add a thorough description of the PR -->
 
 
@@ -25,3 +24,4 @@ Closes #<!-- Issue # here -->
 
 ## ℹ Additional Information
 <!-- Any additional information like screenshots (if applicable, like UI changes), breaking changes, dependencies added, comparisons between new and old behavior, etc. -->
+- [] Achilles used?
