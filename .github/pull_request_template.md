@@ -24,4 +24,4 @@ Closes #<!-- Issue # here -->
 
 ## ℹ Additional Information
 <!-- Any additional information like screenshots (if applicable, like UI changes), breaking changes, dependencies added, comparisons between new and old behavior, etc. -->
-- [] Achilles used?
+- [ ] Achilles used?
