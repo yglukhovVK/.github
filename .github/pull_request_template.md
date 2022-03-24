@@ -12,12 +12,9 @@ If not, please link the respective JIRA/Trello ticket associated.
 Closes #<!-- Issue # here -->
 
 ## 📑 Description
+- [] Achilles/Selenium used?
 <!-- Add a thorough description of the PR -->
 
-<!-- Optionally, you can add a list of changes and if they have been completed or not by using the markdown to-do list syntax
-- [ ] Not Completed
-- [x] Completed
--->
 
 ## :microscope: Tests
 <!-- Answer the following 2 questions: -->
