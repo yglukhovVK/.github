@@ -1,10 +1,3 @@
-<!-- 
-So,... you're finally pull requesting....
-
-Please make sure the PR is limited to one type (docs, feature, bugfix, etc.) and keep it as small as possible.
-You can open multiple prs instead of opening a huge one.
--->
-
 ## :tickets: Reference
 <!-- If this PR closes a github issue, please mention the issue number below.
 If not, please link the respective JIRA/Trello ticket associated.
