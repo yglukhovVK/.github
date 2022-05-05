@@ -12,7 +12,7 @@ Closes #<!-- Issue # here -->
 <!-- Answer the following 2 questions: -->
 ### How were these changes tested? (Local testing)
 1.
-### Did bin\django sync_sources run successfully? (Deployment Control If Applicable)
+### Did bin\django sync_sources run successfully? (Deployment Control)
 2.
 ### How will these changes be verified once they're deployed? (Quality Control)
 3.
