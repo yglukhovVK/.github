@@ -12,8 +12,10 @@ Closes #<!-- Issue # here -->
 <!-- Answer the following 2 questions: -->
 ### How were these changes tested? (Local testing)
 1.
-### How will these changes be verified once they're deployed? (Quality Control)
+### Did bin\django sync_sources run successfully? (Deployment Control)
 2.
+### How will these changes be verified once they're deployed? (Quality Control)
+3.
 
 ## ℹ Additional Information
 <!-- Any additional information like screenshots (if applicable, like UI changes), breaking changes, dependencies added, comparisons between new and old behavior, etc. -->
