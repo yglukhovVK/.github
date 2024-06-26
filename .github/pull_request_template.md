@@ -16,7 +16,10 @@ Closes #<!-- Issue # here -->
 2.
 ### How will these changes be verified once they're deployed? (Quality Control)
 3.
-
+### If new build, was Datapipeline setup using DataPipelineSpiderBase? (DataWarehouse)
+4.
+- [ ] Added COL ticket in <em>jira_tickets</em> field
+- [ ] Added model/models to <em>datapipeline_models</em> list
 ## ℹ Additional Information
 <!-- Any additional information like screenshots (if applicable, like UI changes), breaking changes, dependencies added, comparisons between new and old behavior, etc. -->
 - [ ] Achilles used?
